@@ -1,4 +1,4 @@
-package hw.hw1;
+package l1.classwork;
 
 public class Main {
 }
